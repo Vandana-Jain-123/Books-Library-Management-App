@@ -1,5 +1,30 @@
 .navbar{
-    width:60px;
-    background-color: brown;
+    height:60px;
+    background-color: rgb(165, 132, 132);
     color: white;
+    padding: 10px;
+     display: flex;
+     justify-content: space-evenly;
+
+
+    
+
+}
+.link1{
+    color: white;
+    text-decoration: none;
+    font-size:20px;
+    margin-left: 50px;
+}
+.link2 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 70%;
+}
+.link21 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 7px;
 }
